@@ -30,6 +30,22 @@ class Die(object):
         finally:
             print(_dice)
 
+    def hold(self, holdDice):
+        A = 0
+        B = 1
+        C = 2
+        D = 3
+        E = 4
+        _dice = [self.diceA, self.diceB, self.diceC, self.diceD, self.diceE]
+        sDice = []
+        try:
+            for count, _ in enumerate(holdDice):
+                sDice.append(_dice[_])
+        except Exception as e:
+            pass
+        
+                
+
 die = Die()
 die.roll()
 
