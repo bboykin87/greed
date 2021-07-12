@@ -12,11 +12,13 @@ If a player does not roll a scoring combination on their turn, their turn is ove
 
 ## Scoring
 
-* 1=100 points
-* 5=50 points
-* 3 of a kind= 100 x the number on the dice (100 points for three 1’s, 500 points for three 5’s, etc.)
-* 4 of a kind= 1000 points
-* three pairs (can only be achieved on a single roll)= 1500 points.
-* A straight with all six dice (can only be achieved on a single roll)= 2000 points.
-* 5 of a kind= 2000 points.
+* Each 1	100
+* Each 5	50
+* Three 1s	1000
+* Three 2s	200
+* Three 3s	300
+* Three 4s	400
+* Three 5s	500
+* Three 6s	600
 
+* A straight (1–2–3–4–5) is scored as 1000
